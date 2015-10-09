@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 int main(void)
-  puts("Hello World105!");
+  puts("Hello World106!");
   return EXIT_SUCCESS;
 }
